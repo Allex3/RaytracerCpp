@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Raytracer_in_one_weekend.dir\\Debug\\main.obj",
+            "outputs": [
+                "D:\\Graphics Programming\\Raytracer in one weekend\\build\\Raytracer_in_one_weekend.dir\\Debug\\vc145.pdb",
+                "Raytracer_in_one_weekend.dir\\Debug\\"
+            ],
+            "requires": []
+        }
+    ]
+}
